@@ -1,0 +1,8 @@
+    /*Colors*\
+
+        Bleu : #2980b9;
+        Bleu-hover : #3498db;
+        Noir / titres : #262626;
+        Noir / texte : #404040;
+    
+    \*Fin Colors*/

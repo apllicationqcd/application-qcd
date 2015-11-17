@@ -1,0 +1,106 @@
+/*body{
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.header{
+    width: 100%;
+    min-height: 75px;
+    background-color: dodgerblue;
+}
+.header p{
+    color: azure;
+    font-size: 30px;
+    padding: 15px;
+    font-family: 'Fjalla One', sans-serif;
+}
+.left-logo{
+    float: left;
+    width: 20%;
+}
+.right-nav{
+    float: left;
+    width: 50%;
+    padding-top: 25px;
+}
+.right-nav ul li{
+    color: azure;
+    font-size: 17px;
+    padding: 15px;
+    font-family: 'Roboto', sans-serif;
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+.active{
+    background-color:black;
+}
+.content-test{
+    width: 100%;
+}
+.navigation{
+    position: fixed;
+    background-color:lavender;
+    color: beige;
+    width: 100%;
+    width: 20%;
+    height: 100%;
+    padding-top: 10px;
+    float: left;
+}
+.contenu{
+    width: 78%;
+    height: 100%;
+    padding-top: 10px;
+    float: left;
+}
+.contenu section{
+    width: 100%;
+    margin: 0 auto;
+    margin: 10px;
+}
+
+
+
+.navigation hr, .contenu hr {
+    margin-top:0px;
+    margin-bottom: 0px;
+    background-color: darkgray;
+    height: 1px;
+    color: white;
+    border: 0;
+}
+.navigation nav ul li {
+    margin-top: 1px;
+    list-style-type: none;
+    background-color: black;
+    margin-left: 0px;
+    height: 50px;
+    margin-left: -40px;
+    vertical-align: middle;
+    padding: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+.navigation nav ul li:hover {
+    background-color: dodgerblue;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    color:darkblue;
+    text-align: center;
+    font-size: 18px;
+}
+footer {
+    bottom: 0;
+    position: fixed;
+    min-height: 50px;
+    background-color:black;
+    color: beige;
+    width: 100%;
+}
+footer p{
+    font-family: 'Fjalla One', sans-serif;
+    padding: 20px;
+}
+*/
